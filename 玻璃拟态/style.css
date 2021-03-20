@@ -92,7 +92,7 @@ body::after {
     animation-delay: -2.5s;
     border-bottom: none;
     border-right: none;
-    box-shadow: ;
+    /* box-shadow: ; */
 }
 
 .hour, .min, .sec {
@@ -108,5 +108,5 @@ body::after {
 }
 
 .sec, .sc {
-    
+
 }
